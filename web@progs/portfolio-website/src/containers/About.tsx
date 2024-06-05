@@ -35,7 +35,7 @@ const About = () => {
               target="_blank"
               className="text-accent"
             >
-              Pixelwand
+              JHUB AFRICA
             </Link>
             .
           </p>
