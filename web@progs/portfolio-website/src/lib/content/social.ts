@@ -13,7 +13,7 @@ export const socialSection: SocialSectionType = {
         url: socialLinks.instagram,
     },
     {
-        icon: 'lucide:twitter',
+        icon: 'lucide:x',
         url: socialLinks.x,
     },
     {

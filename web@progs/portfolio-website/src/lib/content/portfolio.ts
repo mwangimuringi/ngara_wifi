@@ -9,7 +9,7 @@ import { StringKeyValueType } from '../types';
 export const socialLinks: StringKeyValueType = {
   facebook: 'https://www.facebook.com/mwangi muringi',
   instagram: 'https://www.instagram.com/juliusmwangi',
-  x: 'https://x.com/mwangi muringi',
+  x: 'https://x.com/julius_mwangi',
   github: 'https://github.com/mwangi223',
   linkedin: 'https://www.linkedin.com/in/julius-mwangi-bba77a309/',
 };
