@@ -1,13 +1,13 @@
-name: 💡 Feature Request
-description: Have a new idea/feature for this project? Please suggest!
-title: '[FEATURE] write a small description here'
-labels: ['feature']
+name: 🐞 Bug
+description: Report an issue to help improve the project.
+title: '[BUG] Write a small description here'
+labels: ['bug']
 body:
   - type: textarea
     id: description
     attributes:
       label: Description
-      description: A brief description of the enhancement you propose, also include what you tried and what worked.
+      description: A brief description of the question or issue, also include what you tried and what didn't work
     validations:
       required: true
   - type: textarea
@@ -39,10 +39,10 @@ body:
     attributes:
       label: 'Checklist 🚀'
       options:
-        - label: "I checked and didn't find similar [issue](https://github.com/vatsalsinghkv/easy-fix/issues)"
+        - label: "I checked and didn't find similar [issue](https://github.com/mwangi223/easy-fix/issues)"
           required: true
 
-        - label: 'I have read the [Contributing Guidelines](https://github.com/vatsalsinghkv/easy-fix/blob/main/CONTRIBUTING.md)'
+        - label: 'I have read the [Contributing Guidelines](https://github.com/mwangi223/easy-fix/blob/main/CONTRIBUTING.md)'
           required: true
 
         - label: 'I am willing to work on this issue (blank for no).'
@@ -52,5 +52,5 @@ body:
     attributes:
       value: |
         Join our discord for feature and bug discussion: [https://discord.gg/St2dHg9YwA](https://discord.gg/St2dHg9YwA)
-        In case of emergencies contact me on [LinkedIn](https://www.linkedin.com/in/vatsalsinghkv) or [Twitter](https://twitter.com/vatsalsinghkv)
-        Feel free to check out other cool repositories [here](https://github.com/vatsalsinghkv)
+        In case of emergencies contact me on [LinkedIn](https://www.linkedin.com/in/julius-mwangi) or [X](https://twitter.com/juliusmwangi)
+        Feel free to check out other cool repositories [here](https://github.com/mwangi223)

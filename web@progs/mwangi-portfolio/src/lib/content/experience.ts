@@ -4,8 +4,8 @@ export const experienceSection: ExperienceSectionType = {
     title: "where i've worked",
     experiences: [
     {
-        company: 'Pixelwand',
-        companyUrl: 'https://www.pixelwand.live/',
+        company: 'TEKssystem',
+        companyUrl: 'https://www.teksystem.live/',
         role: 'frontend developer and Java developer',
         started: 'August 2022',
         upto: 'present',

@@ -2,7 +2,7 @@
   vatsalsinghkv.vercel.app
 </h1>
 <p align="center">
-  A portfolio website i.e. <a href="https://vatsalsinghkv.vercel.app" target="_blank">vatsalsinghkv.vercel.app</a> built with <a href="https://nextjs.org/" target="_blank">Next.js</a> and hosted with <a href="https://vercel.com/" target="_blank">Vercel</a>
+  A portfolio website i.e. <a href="https://vatsalsinghkv.vercel.app" target="_blank">juliusmwangi.vercel.app</a> built with <a href="https://nextjs.org/" target="_blank">Next.js</a> and hosted with <a href="https://vercel.com/" target="_blank">Vercel</a>
 </p>
 
 <p align="center">
@@ -14,7 +14,7 @@
 
 <br>
 
-[![My Portfolio](https://user-images.githubusercontent.com/68834718/214532356-7c56cdbd-0136-4d24-a532-d27e160ae72d.png)](https://vatsalsinghkv.vercel.app/)
+[![My Portfolio](https://user-images.githubusercontent.com/68834718/214532356-7c56cdbd-0136-4d24-a532-d27e160ae72d.png)](https://juliusmwangi.vercel.app/)
 
 ## Table of Contents
 
